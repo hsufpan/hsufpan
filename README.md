@@ -1,9 +1,9 @@
 ```
-H      H   SSSS   U      U FFFFFFF PPPPPPP   AAAAAA  NN      N
-H      H S      S U      U F       P      P A      A N N     N
-H      H S        U      U F       P      P A      A N  N    N
-HHHHHHHH   SSSS   U      U FFFFFFF PPPPPPP  AAAAAAAA N   N   N
-H      H        S U      U F       P        A      A N    N  N
-H      H S      S U      U F       P        A      A N     N N
-H      H   SSSS     UUUU   F       P        A      A N      NN
+HH      HH  SSSSSSSSSS  UU      UU  FFFFFFFFF  PPPPPPPPPP  AAAAAAAAAA  NNN     NN
+HH      HH  SS      SS  UU      UU  FF         PP      PP  AA      AA  NNNN    NN
+HH      HH  SS          UU      UU  FF         PP      PP  AA      AA  NN NN   NN
+HHHHHHHHHH  SSSSSSSSSS  UU      UU  FFFFFFFFF  PPPPPPPPPP  AAAAAAAAAA  NN  NN  NN
+HH      HH          SS  UU      UU  FF         PP          AA      AA  NN   NN NN
+HH      HH  SS      SS  UU      UU  FF         PP          AA      AA  NN    NNNN
+HH      HH  SSSSSSSSSS  UUUUUUUUUU  FF         PP          AA      AA  NN     NNN
 ```
